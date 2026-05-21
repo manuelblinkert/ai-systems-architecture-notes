@@ -26,6 +26,10 @@ Backend and AI engineers building LLM-powered products. Technical founders and C
 2. [LLM Orchestration vs Prompting](notes/02-llm-orchestration-vs-prompting.md)
 3. [Observability for LLM Systems](notes/03-observability-for-llm-systems.md)
 
+## Templates
+
+- [AI Systems Architecture Review](templates/architecture-review-template.md)
+
 ## Related
 
 - [AI Production Readiness Checklist](https://github.com/manuelblinkert/ai-production-readiness-checklist)

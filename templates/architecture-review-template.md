@@ -23,7 +23,7 @@ _Be specific. "Wrong answer" is not enough._
 _List each step. If you can't list them, the orchestration isn't explicit enough._
 
 | Step | What it does | Owned by |
-|------|-------------|----------|
+|------|--------------|----------|
 | 1    |             |          |
 | 2    |             |          |
 | 3    |             |          |
@@ -137,7 +137,7 @@ _Retry / fallback / surface error / pass bad output downstream_
 _Estimate at P50 and P95 input sizes._
 
 | Scenario | Input tokens | Output tokens | Est. cost |
-|----------|-------------|---------------|-----------|
+|----------|--------------|---------------|-----------|
 | P50      |             |               |           |
 | P95      |             |               |           |
 
